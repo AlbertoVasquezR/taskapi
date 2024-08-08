@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wired\\source\\repos\\TaskAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{219D3007-4185-4E61-AC98-345AD778A676}|TaskAPI\\TaskAPI.csproj|c:\\users\\wired\\source\\repos\\taskapi\\taskapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{219D3007-4185-4E61-AC98-345AD778A676}|TaskAPI\\TaskAPI.csproj|solutionrelative:taskapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{219D3007-4185-4E61-AC98-345AD778A676}|TaskAPI\\TaskAPI.csproj|c:\\users\\wired\\source\\repos\\taskapi\\taskapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{219D3007-4185-4E61-AC98-345AD778A676}|TaskAPI\\TaskAPI.csproj|solutionrelative:taskapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{219D3007-4185-4E61-AC98-345AD778A676}|TaskAPI\\TaskAPI.csproj|c:\\users\\wired\\source\\repos\\taskapi\\taskapi\\data\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{219D3007-4185-4E61-AC98-345AD778A676}|TaskAPI\\TaskAPI.csproj|solutionrelative:taskapi\\data\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{219D3007-4185-4E61-AC98-345AD778A676}|TaskAPI\\TaskAPI.csproj|c:\\users\\wired\\source\\repos\\taskapi\\taskapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{219D3007-4185-4E61-AC98-345AD778A676}|TaskAPI\\TaskAPI.csproj|solutionrelative:taskapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{219D3007-4185-4E61-AC98-345AD778A676}|TaskAPI\\TaskAPI.csproj|c:\\users\\wired\\source\\repos\\taskapi\\taskapi\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{219D3007-4185-4E61-AC98-345AD778A676}|TaskAPI\\TaskAPI.csproj|solutionrelative:taskapi\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{219D3007-4185-4E61-AC98-345AD778A676}|TaskAPI\\TaskAPI.csproj|c:\\users\\wired\\source\\repos\\taskapi\\taskapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{219D3007-4185-4E61-AC98-345AD778A676}|TaskAPI\\TaskAPI.csproj|solutionrelative:taskapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{219D3007-4185-4E61-AC98-345AD778A676}|TaskAPI\\TaskAPI.csproj|c:\\users\\wired\\source\\repos\\taskapi\\taskapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{219D3007-4185-4E61-AC98-345AD778A676}|TaskAPI\\TaskAPI.csproj|solutionrelative:taskapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wired\\source\\repos\\TaskAPI\\TaskAPI\\Migrations\\20240808042021_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskAPI\\Migrations\\20240808042021_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\wired\\source\\repos\\TaskAPI\\TaskAPI\\.gitignore",
+              "RelativeDocumentMoniker": "TaskAPI\\.gitignore",
+              "ToolTip": "C:\\Users\\wired\\source\\repos\\TaskAPI\\TaskAPI\\.gitignore",
+              "RelativeToolTip": "TaskAPI\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAEAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-08-08T12:43:12.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\wired\\source\\repos\\TaskAPI\\TaskAPI\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "TaskAPI\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\wired\\source\\repos\\TaskAPI\\TaskAPI\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "TaskAPI\\Controllers\\TasksController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T03:45:15.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\wired\\source\\repos\\TaskAPI\\TaskAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "TaskAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\wired\\source\\repos\\TaskAPI\\TaskAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "TaskAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T09:21:00.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskContext.cs",
+              "DocumentMoniker": "C:\\Users\\wired\\source\\repos\\TaskAPI\\TaskAPI\\Data\\TaskContext.cs",
+              "RelativeDocumentMoniker": "TaskAPI\\Data\\TaskContext.cs",
+              "ToolTip": "C:\\Users\\wired\\source\\repos\\TaskAPI\\TaskAPI\\Data\\TaskContext.cs",
+              "RelativeToolTip": "TaskAPI\\Data\\TaskContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T03:28:38.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\wired\\source\\repos\\TaskAPI\\TaskAPI\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "TaskAPI\\Models\\Task.cs",
+              "ToolTip": "C:\\Users\\wired\\source\\repos\\TaskAPI\\TaskAPI\\Models\\Task.cs",
+              "RelativeToolTip": "TaskAPI\\Models\\Task.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T03:21:23.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\wired\\source\\repos\\TaskAPI\\TaskAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\wired\\source\\repos\\TaskAPI\\TaskAPI\\appsettings.json",
+              "RelativeToolTip": "TaskAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-08T03:49:25.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240808042021_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\wired\\source\\repos\\TaskAPI\\TaskAPI\\Migrations\\20240808042021_InitialCreate.cs",
+              "RelativeDocumentMoniker": "TaskAPI\\Migrations\\20240808042021_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\wired\\source\\repos\\TaskAPI\\TaskAPI\\Migrations\\20240808042021_InitialCreate.cs",
+              "RelativeToolTip": "TaskAPI\\Migrations\\20240808042021_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T04:20:21.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wired\\source\\repos\\TaskAPI\\TaskAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TaskAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\wired\\source\\repos\\TaskAPI\\TaskAPI\\Program.cs",
+              "RelativeToolTip": "TaskAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T03:51:50.649Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
